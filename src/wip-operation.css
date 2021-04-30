@@ -1,0 +1,9 @@
+.swagger-ui .opblock-wip .opblock-summary {
+    opacity: .5;
+}
+.swagger-ui .opblock-wip .opblock.opblock {
+    border-style: dashed;
+}
+.swagger-ui .opblock-wip .opblock-summary-path::before {
+    content: "🚧 ";
+}
