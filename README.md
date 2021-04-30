@@ -12,7 +12,7 @@ npm i swagger-ui-plugin-wip-operation
 
 # Usage
 
-Add the plugin in the configuration object of SwaggerUI, and provides a list of sections like this :
+Add the plugin in the configuration object of SwaggerUI like this :
 
 ```js
 import { WipOperationPlugin } from 'swagger-ui-plugin-wip-operation';
